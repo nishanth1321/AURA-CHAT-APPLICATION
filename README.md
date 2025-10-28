@@ -6,8 +6,7 @@ A sleek, modern chat application built with Next.js, Tailwind CSS, and TypeScrip
 
 | Login Screen | Sign Up Screen | Chat Interface |
 | :---: | :---: | :---: |
-| ![Aura Chat Login Screen](path/to/your/login-image.jpg) | ![Aura Chat Sign Up Screen](path/to/your/signup-image.jpg) | ![Aura Chat Interface](path/to/your/chat-image.jpg) |
-*(Note: Replace `path/to/your/image.jpg` with the actual paths or URLs to your screenshots in the repo.)*
+| ![Aura Chat Login Screen](assets/login.png) | ![Aura Chat Sign Up Screen](assets/signup.png) | ![Aura Chat Interface](assets/chat.png) |
 
 ---
 
