@@ -45,17 +45,13 @@ Follow these instructions to get a local copy up and running.
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/aura-chat.git](https://github.com/your-username/aura-chat.git)
-    cd aura-chat
+    git clone https://github.com/nishanth1321/AURA-CHAT-APPLICATION.git
+    cd AURA-CHAT-APPLICATION
     ```
 
 2.  **Install dependencies:**
     ```sh
     npm install
-    # or
-    yarn install
-    # or
-    pnpm install
     ```
 
 3.  **Set up environment variables:**
@@ -79,10 +75,4 @@ To run this project, you will need to add the following environment variables to
 ```dotenv
 # Google Gemini API Key
 GEMINI_API_KEY=YOUR_GEMINI_API_KEY_HERE
-
-# Add your database connection string
-# DATABASE_URL=...
-
-# Add your authentication secrets (e.g., NextAuth)
-# NEXTAUTH_URL=http://localhost:3000
-# NEXTAUTH_SECRET=...
+```
